@@ -1,0 +1,9 @@
+Django==5.0.2
+djangorestframework==3.14.0
+django-ckeditor==6.7.0
+django-modeltranslation==0.18.11  # Using this instead of googletrans
+redis==5.0.1
+django-redis==5.4.0
+pytest==8.0.0
+pytest-django==4.8.0
+gunicorn==21.2.0
